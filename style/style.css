@@ -1,0 +1,55 @@
+body
+{
+	min-height: 420px;
+	/*text-align: center !important;*/
+	width: 100%;
+	
+}
+
+.ui-br
+{
+	border: none;
+}
+
+#password-clear {
+    display: none;
+}
+#logo {
+	min-width: 300px;
+	max-width: 445px;
+}
+
+.image_result
+{
+	height: 50px;
+}
+.min-width-480px .image_result
+{
+	height: 150px;
+}
+/*
+.min-width-480px input.ui-input-text, 
+.min-width-480px textarea.ui-input-text, 
+.min-width-480px
+*/
+/*
+.ui-input-search,
+.ui-input-text,    
+.ui-select,
+{
+    width: 90% !important;
+    padding: 0.4em 0 !important;
+    
+}
+*/
+
+/*
+.min-width-480px .ui-btn 
+{
+	width: 400px !important;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+*/
+
